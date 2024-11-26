@@ -1,0 +1,7 @@
+2024-11-26 00:21:07	Role of Epithelial to Mesenchymal Transition in Colorectal Cancer .pdf	- Epithelial-Mesenchymal Transition (EMT) is significant in colorectal cancer (CRC), where epithelial cells acquire mesenchymal characteristics.
+2024-11-26 00:21:07	Role of Epithelial to Mesenchymal Transition in Colorectal Cancer .pdf	- EMT plays a crucial role in tumor development, metastasis, and resistance to treatment in CRC.
+2024-11-26 00:21:07	Role of Epithelial to Mesenchymal Transition in Colorectal Cancer .pdf	- The network of EMT regulators and signaling pathways involves transcription factors, effector molecules, and environmental signals.
+2024-11-26 00:21:07	Role of Epithelial to Mesenchymal Transition in Colorectal Cancer .pdf	- Factors like TGF-β signaling, cancer-associated fibroblasts (CAFs), and tumor-associated macrophages (TAMs) contribute to inducing EMT in CRC cells.
+2024-11-26 00:21:07	Role of Epithelial to Mesenchymal Transition in Colorectal Cancer .pdf	- EMT is linked to the development of cancer stem cells (CSCs) in CRC.
+2024-11-26 00:21:07	Role of Epithelial to Mesenchymal Transition in Colorectal Cancer .pdf	- Targeting EMT signaling pathways, such as Wnt/β-catenin, TGF-β, and CSC programs, could offer promising therapeutic strategies for CRC treatment.
+2024-11-26 00:21:07	Role of Epithelial to Mesenchymal Transition in Colorectal Cancer .pdf	- Understanding the EMT-CSC axis and its impact on CRC prognosis could lead to more effective clinical interventions.
